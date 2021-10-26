@@ -1,0 +1,3 @@
+# HAKI
+
+gcc SUDO_BRUTE.c -o SUDO_BRUTE
